@@ -1,0 +1,3 @@
+*.vimrc text eol=lf
+*.zshrc text eol=lf
+*.tmux.conf text eol=lf
